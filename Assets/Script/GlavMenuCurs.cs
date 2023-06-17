@@ -1,0 +1,15 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class GlavMenuCurs : MonoBehaviour {
+ 
+	void Start () {
+        Cursor.visible = true;
+    }
+	
+ 
+	void Update () {
+		  
+	}
+}
